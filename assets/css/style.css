@@ -9,6 +9,9 @@
     word-wrap: break-word;
     padding:0;
 }
+.about{
+    margin-top: 60px;
+}
 .about img{
     display: block;
     margin: auto;
